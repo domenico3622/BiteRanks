@@ -1,3 +1,16 @@
+<h2>📷 User Interface</h2>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./screenshots/image1.png" alt="Screenshot UI 1" style="width:100%">
+    </td>
+    <td width="50%">
+      <img src="./screenshots/image2.png" alt="Screenshot UI 2" style="width:100%">
+    </td>
+  </tr>
+</table>
+
 # How run the code?
 
 cd vite-project
